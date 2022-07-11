@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = paul@bogumilo.co
+	name = Paul Bogumilo
